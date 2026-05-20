@@ -2,4 +2,4 @@
 
 ![banner](./MANSUR.png)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=400&color=00FF7F&center=true&vCenter=true&width=600&lines=Hi+I'm+Mansur+👋;Frontend+Developer+🚀;React+%7C+JavaScript+%7C+Tailwind+CSS;Building+Projects+Every+Day+⚡;Let's+Code+Something+Cool+🔥)](https://git.io/typing-svg)
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
