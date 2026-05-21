@@ -5,7 +5,7 @@
 
 <br/>
 
-<img src="./MANSUR.png" alt="banner" width="900"/>
+<img src="./MANSUR.png" alt="banner" width="1000"/>
 
 <br/>
 
