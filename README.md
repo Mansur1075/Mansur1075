@@ -3,5 +3,5 @@
 ![banner](./MANSUR.png)
 
 
-https://github-readme-streak-stats.herokuapp.com
+![GitHub Streak](https://streak-stats.demolab.com?user=Mansur1075&theme=tokyonight)
 ![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
