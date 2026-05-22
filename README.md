@@ -14,7 +14,7 @@
 </div>
 <div align="center">
 
-<h1 align="center">⚡ Mansur.dev ⚡</h1>
+<h1 align="center" class="text-[red]">⚡ Mansur.dev ⚡</h1>
 
 <p align="center">
   Turning ideas into smooth, responsive web experiences ✨
