@@ -41,7 +41,6 @@
 
 ## 🚀 Current Mission
 
-```diff
-+ Building real-world projects
-+ Improving UI/UX skills
-+ Leveling up React & Next.js
+- 🚧 Building real-world projects  
+- 🎨 Improving UI/UX skills  
+- ⚛️ Leveling up React & Next.js  
