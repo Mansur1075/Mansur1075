@@ -1,9 +1,7 @@
 
  <div align="center">
 
-<h1>
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1200&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+I'm+Mansur+👋;Frontend+Developer+🚀;React+%7C+JavaScript+%7C+Tailwind;Always+Learning+New+Things+💡)](https://git.io/typing-svg)
-</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1200&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+I'm+Mansur+👋;Frontend+Developer+🚀;React+%7C+JavaScript+%7C+Tailwind;Always+Learning+New+Things+💡)](https://git.io/typing-svg)
 
 <br/>
 
