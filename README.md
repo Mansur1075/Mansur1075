@@ -14,4 +14,34 @@
 </div>
 <div align="center">
 
+<h1 align="center">⚡ Mansur.dev ⚡</h1>
 
+<p align="center">
+  Turning ideas into smooth, responsive web experiences ✨
+</p>
+
+---
+
+## 🧠 About Me
+
+- ⚡ Frontend Developer (React • JavaScript • Tailwind)
+- 🚀 I build fast, clean & modern UI
+- 🎯 Focused on real-world projects & job-ready skills
+- 🧩 Love solving UI problems & making things look 🔥
+
+---
+
+## 🛠️ Tech Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,git,github,vscode" />
+</p>
+
+---
+
+## 🚀 Current Mission
+
+```diff
++ Building real-world projects
++ Improving UI/UX skills
++ Leveling up React & Next.js
